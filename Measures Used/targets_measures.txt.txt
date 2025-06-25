@@ -1,0 +1,11 @@
+-- Target Measures
+NS Target = SUM(NsGmTarget[ns_target])
+GM Target = SUM(NsGmTarget[gm_target])
+NP Target = SUM(NsGmTarget[np_target])
+
+GM Target % = DIVIDE([GM Target],SUM(NsGmTarget[ns_target]),0)
+NP Target % = DIVIDE([NP Target],SUM(NsGmTarget[ns_target]),0)
+
+YOY Net Sales = CALCULATE([NS], SAMEPERIODLASTYEAR(dim_date[date]))
+YOY GM % = CALCULATE([GM%], SAMEPERIODLASTYEAR(dim_date[date]))
+YOY NP % = CALCULATE([NP %], SAMEPERIODLASTYEAR(dim_date[date]))

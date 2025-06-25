@@ -1,0 +1,9 @@
+-- Forecast Error & Accuracy
+Forecast Qty = CALCULATE(SUM(fact_forecast_monthly[forecast_quantity]), fact_forecast_monthly[date]<=MAX('Last sales month'[Last sales month]))
+Actual Qty = CALCULATE(SUM('FactActual Estimates'[Qty]), 'FactActual Estimates'[date]<=MAX('Last sales month'[Last sales month]))
+Net Error = [Forecast Qty]-[Actual Qty]
+Abs Error = SUMX(DISTINCT(dim_date[date]), SUMX(DISTINCT(dim_product[product_code]), ABS([Net Error])))
+Abs Error % = DIVIDE([Abs error],[Forecast Qty],0)
+Forecast Accuracy % = IF([Abs error %]<>BLANK(),  1- [Abs error %],BLANK())
+
+YOY Forecast Accuracy % = CALCULATE([Forecast Accuracy %], SAMEPERIODLASTYEAR(dim_date[date]))

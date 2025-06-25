@@ -1,0 +1,11 @@
+-- Visual Cards & Colors
+Performance Label = IF(HASONEVALUE('P & L ROWS'[Line Item]), SELECTEDVALUE('P & L ROWS'[Line Item]) & " Performance Over Time", "Net Sales Performance Over Time")
+BM Tooltip = IF([NS BM]=blank()||[GM % BM]=BLANK()||[NP % BM]=BLANK(),"BM Target(s) not available for the selected year","")
+
+Δ NS % Label = SWITCH(TRUE(),
+    [Δ NS] = BLANK(), "",
+    [Δ NS] > 0, "+" & ROUND(([Δ NS]*100),2) & "%" & " 🡵",
+    [Δ NS] < 0, "-" & ROUND(([Δ NS]*100),2) & "%" & " 🡶"
+)
+
+Δ NS % Color = IF([Δ NS] < 0 ,"#FF0000" , "#159F3E")

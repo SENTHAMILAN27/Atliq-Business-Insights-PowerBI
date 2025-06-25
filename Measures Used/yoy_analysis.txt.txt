@@ -1,0 +1,6 @@
+-- YoY and Benchmark Comparison
+YOY P&L = CALCULATE([P & L values], SAMEPERIODLASTYEAR(dim_date[date]))
+P&L Diff = VAR x = [P & L values]-[P & L BM] RETURN IF(ISBLANK([P & L BM])|| ISBLANK([P & L values]),BLANK(),x)
+P&L YOY % = VAR x = DIVIDE([P & L YOY],ABS([P & L BM]),0)*100 RETURN IF(ISBLANK([P & L values]||[P & L BM]),BLANK(),x)
+NP YOY % = DIVIDE ([NP %], [NP % BM])-1
+s
