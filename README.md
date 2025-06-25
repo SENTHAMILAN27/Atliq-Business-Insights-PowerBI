@@ -41,10 +41,10 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 | Page         | Preview |
 |--------------|---------|
 | 🏠 Home       | [Home](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Home.jpg) |
-| 📊 Finance      | [Sales](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Finance.jpg) |
-| 💰 Sales    | [Finance](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Sales.jpg) |
-| 📦 Marketing  | [Supply Chain](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Marketing.jpg) |
-| 📣 Supply Chain  | [Marketing](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Supply%20Chain.jpg) |
+| 📊 Finance      | [Finance](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Finance.jpg) |
+| 💰 Sales    | [Sales](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Sales.jpg) |
+| 📦 Marketing  | [Marketing](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Marketing.jpg) |
+| 📣 Supply Chain  | [Supply chain](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Supply%20Chain.jpg) |
 | 🧠 Executive View | [Executive](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Executive.jpg) |
 
 
