@@ -62,8 +62,8 @@ Click below to **view the entire dashboard in PDF format**:
 
 Curious how these metrics work under the hood? Check out the logic that powers this BI system:
 
-- 📂 [PnL Measures](MeasuresUsed/pnl_measures.txt.txt)
-- 🎯 [Target & Benchmark Logic](MeasuresUsed/targets_measures.txt.txt)
+- 📂 [PnL Measures](Measures Used/forecast_accuracy.txt.txt)
+- 🎯 [Target & Benchmark Logic](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/Measures%20Used/forecast_accuracy.txt.txt)
 - 📊 [YOY & Forecast Accuracy](MeasuresUsed/yoy_analysis.txt.txt)
 - 🌈 [Visual Labels, Icons & Colors](MeasuresUsed/visual_labels_and_colors.txt.txt)
 - 📉 [Forecast Accuracy Calculations](MeasuresUsed/forecast_accuracy.txt.txt)
