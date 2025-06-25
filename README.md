@@ -62,12 +62,11 @@ Click below to **view the entire dashboard in PDF format**:
 
 Curious how these metrics work under the hood? Check out the logic that powers this BI system:
 
-- 📂 [PnL Measures](Measures Used/forecast_accuracy.txt.txt)
-- 🎯 [Target & Benchmark Logic](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/Measures%20Used/forecast_accuracy.txt.txt)
-- 📊 [YOY & Forecast Accuracy](MeasuresUsed/yoy_analysis.txt.txt)
-- 🌈 [Visual Labels, Icons & Colors](MeasuresUsed/visual_labels_and_colors.txt.txt)
-- 📉 [Forecast Accuracy Calculations](MeasuresUsed/forecast_accuracy.txt.txt)
-
+- 📂 [PnL Measures](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/91f32474e0f4797ceab303f980df474c956820c2/Measures%20Used/pnl_measures.txt.txt)
+- 🎯 [Target & Benchmark Logic](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/91f32474e0f4797ceab303f980df474c956820c2/Measures%20Used/targets_measures.txt.txt)
+- 📊 [YOY & Forecast Accuracy](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/91f32474e0f4797ceab303f980df474c956820c2/Measures%20Used/yoy_analysis.txt.txt)
+- 🌈 [Visual Labels, Icons & Colors](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/91f32474e0f4797ceab303f980df474c956820c2/Measures%20Used/yoy_analysis.txt.txt)
+- 📉 [Forecast Accuracy Calculations](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/Measures%20Used/forecast_accuracy.txt.txt)
 ---
 
 ## 🎯 Key Highlights
