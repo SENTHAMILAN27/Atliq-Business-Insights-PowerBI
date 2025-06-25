@@ -62,11 +62,11 @@ Click below to **view the entire dashboard in PDF format**:
 
 Curious how these metrics work under the hood? Check out the logic that powers this BI system:
 
-- 📂 [PnL Measures](Measures Used/pnl_measures.txt.txt)
-- 🎯 [Target & Benchmark Logic](Measures Used/targets_measures.txt.txt)
-- 📊 [YOY & Forecast Accuracy](Measures Used/yoy_analysis.txt.txt)
-- 🌈 [Visual Labels, Icons & Colors](Measures Used/visual_labels_and_colors.txt.txt)
-- 📉 [Forecast Accuracy Calculations](Measures Used/forecast_accuracy.txt.txt)
+- 📂 [PnL Measures](MeasuresUsed/pnl_measures.txt.txt)
+- 🎯 [Target & Benchmark Logic](MeasuresUsed/targets_measures.txt.txt)
+- 📊 [YOY & Forecast Accuracy](MeasuresUsed/yoy_analysis.txt.txt)
+- 🌈 [Visual Labels, Icons & Colors](MeasuresUsed/visual_labels_and_colors.txt.txt)
+- 📉 [Forecast Accuracy Calculations](MeasuresUsed/forecast_accuracy.txt.txt)
 
 ---
 
