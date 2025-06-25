@@ -91,7 +91,9 @@ With **2.5 years of experience in the IT banking domain**, I’ve always been fa
 ## 📫 Contact
 
 📧 Email  :Senthamilanarivu@gmail.com
+
 📞 Mobile :6382403356
+
 🧳 Actively looking for opportunities in **Data Analytics / Business Intelligence**
 
 ---
