@@ -40,12 +40,12 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 
 | Page         | Preview |
 |--------------|---------|
-| 🏠 Home       | ![Home](AtliQ_BI_360_Dashboard- Screenshots/Home.jpg) |
-| 📊 Sales      | ![Sales](AtliQ_BI_360_Dashboard- Screenshots/Sales.jpg) |
-| 💰 Finance    | ![Finance](AtliQ_BI_360_Dashboard- Screenshots/Finance.jpg) |
-| 📦 Supply Chain | ![Supply Chain](AtliQ_BI_360_Dashboard- Screenshots/Supply Chain.jpg) |
-| 📣 Marketing  | ![Marketing](AtliQ_BI_360_Dashboard- Screenshots/Marketing.jpg) |
-| 🧠 Executive View | ![Executive](AtliQ_BI_360_Dashboard- Screenshots/Executive.jpg) |
+| 🏠 Home       | ![Home](AtliQ_BI_360_Dashboard-Screenshots/Home.jpg) |
+| 📊 Sales      | ![Sales](AtliQ_BI_360_Dashboard-Screenshots/Sales.jpg) |
+| 💰 Finance    | ![Finance](AtliQ_BI_360_Dashboard-Screenshots/Finance.jpg) |
+| 📦 Supply Chain | ![Supply Chain](AtliQ_BI_360_Dashboard-Screenshots/SupplyChain.jpg) |
+| 📣 Marketing  | ![Marketing](AtliQ_BI_360_Dashboard-Screenshots/Marketing.jpg) |
+| 🧠 Executive View | ![Executive](AtliQ_BI_360_Dashboard-Screenshots/Executive.jpg) |
 
 ---
 
