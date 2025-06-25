@@ -45,7 +45,8 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 | 💰 Finance    | ![Finance](AtliQ_BI_360_Dashboard-Screenshots/Finance.jpg) |
 | 📦 Supply Chain | ![Supply Chain](AtliQ_BI_360_Dashboard-Screenshots/SupplyChain.jpg) |
 | 📣 Marketing  | ![Marketing](AtliQ_BI_360_Dashboard-Screenshots/Marketing.jpg) |
-| 🧠 Executive View | ![Executive](AtliQ_BI_360_Dashboard-Screenshots/Executive.jpg) |
+| 🧠 Executive View | ![Executive](Atliq-Business-Insights-PowerBI/AtliQ_BI_360_Dashboard- Screenshots/Executive.jpg) |
+
 
 ---
 
@@ -53,7 +54,7 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 
 Click below to **view the entire dashboard in PDF format**:
 
-👉 [🖥️ View AtliQ BI 360 PDF Dashboard](AtliQ_BI_360_Dashboard- PDF/AtliQ_BI_360_Dashboard.pdf.pdf)
+👉 [🖥️ View AtliQ BI 360 PDF Dashboard](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20PDF/AtliQ_BI_360_Dashboard.pdf.pdf)
 
 ---
 
