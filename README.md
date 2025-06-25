@@ -40,12 +40,12 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 
 | Page         | Preview |
 |--------------|---------|
-| 🏠 Home       | [Home](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Home.jpg) |
-| 📊 Finance      | [Finance](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Finance.jpg) |
-| 💰 Sales    | [Sales](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Sales.jpg) |
-| 📦 Marketing  | [Marketing](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Marketing.jpg) |
-| 📣 Supply Chain  | [Supply chain](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Supply%20Chain.jpg) |
-| 🧠 Executive View | [Executive](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Executive.jpg) |
+| 🏠 Home       | [Home](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Home.jpg) |
+| 📊 Finance      | [Finance](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main5/AtliQ_BI_360_Dashboard-%20Screenshots/Finance.jpg) |
+| 💰 Sales    | [Sales](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Sales.jpg) |
+| 📦 Marketing  | [Marketing](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Marketing.jpg) |
+| 📣 Supply Chain  | [Supply chain](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Supply%20Chain.jpg) |
+| 🧠 Executive View | [Executive](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Executive.jpg) |
 
 
 ---
@@ -62,11 +62,11 @@ Click below to **view the entire dashboard in PDF format**:
 
 Curious how these metrics work under the hood? Check out the logic that powers this BI system:
 
-- 📂 [PnL Measures](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/91f32474e0f4797ceab303f980df474c956820c2/Measures%20Used/pnl_measures.txt.txt)
-- 🎯 [Target & Benchmark Logic](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/91f32474e0f4797ceab303f980df474c956820c2/Measures%20Used/targets_measures.txt.txt)
-- 📊 [YOY & Forecast Accuracy](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/91f32474e0f4797ceab303f980df474c956820c2/Measures%20Used/yoy_analysis.txt.txt)
-- 🌈 [Visual Labels, Icons & Colors](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/91f32474e0f4797ceab303f980df474c956820c2/Measures%20Used/yoy_analysis.txt.txt)
-- 📉 [Forecast Accuracy Calculations](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/Measures%20Used/forecast_accuracy.txt.txt)
+- 📂 [PnL Measures](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/Measures%20Used/pnl_measures.txt.txt)
+- 🎯 [Target & Benchmark Logic](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/Measures%20Used/targets_measures.txt.txt)
+- 📊 [YOY & Forecast Accuracy](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/Measures%20Used/yoy_analysis.txt.txt)
+- 🌈 [Visual Labels, Icons & Colors](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/Measures%20Used/yoy_analysis.txt.txt)
+- 📉 [Forecast Accuracy Calculations](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/Measures%20Used/forecast_accuracy.txt.txt)
 ---
 
 ## 🎯 Key Highlights
