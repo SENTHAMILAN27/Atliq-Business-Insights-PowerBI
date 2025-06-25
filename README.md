@@ -40,7 +40,7 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 
 | Page         | Preview |
 |--------------|---------|
-| 🏠 Home       | [Home](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-Screenshots/Home.jpg) |
+| 🏠 Home       | [Home](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/ddb1f75b8cfd453365170e951be459040954ea55/AtliQ_BI_360_Dashboard-%20Screenshots/Home.jpg) |
 | 📊 Sales      | [Sales](AtliQ_BI_360_Dashboard-Screenshots/Sales.jpg) |
 | 💰 Finance    | [Finance](AtliQ_BI_360_Dashboard-Screenshots/Finance.jpg) |
 | 📦 Supply Chain | [Supply Chain](AtliQ_BI_360_Dashboard-Screenshots/SupplyChain.jpg) |
