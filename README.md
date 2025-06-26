@@ -84,7 +84,7 @@ Curious how these metrics work under the hood? Check out the logic that powers t
 With **2.5 years of experience in the IT banking domain**, I’ve always been fascinated by the “why” behind the numbers. Transitioning into Data Analytics was a natural step as I enjoyed building stories and solving problems using data. You can find my other projects and portfolio at:
 
 👉 **[Visit My Portfolio Website](https://codebasics.io/portfolio/SENTHAMILAN-A)**  
-👉 **[Connect with me on LinkedIn](https://www.linkedin.com/in/senthamilan7/)**
+👉 **[Connect with me on LinkedIn](https://www.linkedin.com/in/senthamilan27/)**
 
 ---
 
