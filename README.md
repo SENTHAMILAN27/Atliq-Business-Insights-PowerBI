@@ -45,7 +45,7 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 | 💰 Sales    | [Sales](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Sales.jpg) |
 | 📦 Marketing  | [Marketing](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Marketing.jpg) |
 | 📣 Supply Chain  | [Supply chain](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Supply%20Chain.jpg) |
-| 🧠 Executive View | [Executive](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Executive.jpg) |
+| 🧠 Executive View | [Executive](Images/Executive.jpg) |
 
 
 ---
