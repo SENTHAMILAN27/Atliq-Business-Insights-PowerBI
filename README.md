@@ -49,10 +49,10 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 
 
 ---
-| Page         | Preview |
+| Page         |
 |--------------|---------|
 | 🏠 Home|  
-|![Home](AtliQ_BI_360_Dashboard- Screenshots/Home.jpg)|
+|![Home](AtliQ_BI_360_Dashboard- Screenshots/KPI Card.png)|
 
 ---
 
