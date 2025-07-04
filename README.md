@@ -40,11 +40,11 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 
 | Page         | Preview |
 |--------------|---------|
-| 🏠 Home       | [Home](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Home.jpg) |
-| 📊 Finance      | [Finance](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main5/AtliQ_BI_360_Dashboard-%20Screenshots/Finance.jpg) |
-| 💰 Sales    | [Sales](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Sales.jpg) |
-| 📦 Marketing  | [Marketing](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Marketing.jpg) |
-| 📣 Supply Chain  | [Supply chain](https://github.com/SENTHAMILAN27/Atliq-Business-Insights-PowerBI/blob/main/AtliQ_BI_360_Dashboard-%20Screenshots/Supply%20Chain.jpg) |
+| 🏠 Home       | [Home](Images/Home.jpg) |
+| 📊 Finance      | [Finance](Images/Finance.jpg) |
+| 💰 Sales    | [Sales](Images/Sales.jpg) |
+| 📦 Marketing  | [Marketing](Images/Marketing.jpg) |
+| 📣 Supply Chain  | [Supply chain](Images/SupplyChain.jpg) |
 | 🧠 Executive View | [Executive](Images/Executive.jpg) |
 
 
