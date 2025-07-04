@@ -49,10 +49,15 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 
 
 ---
-| Page         |
+
 |--------------|---------|
 | 🏠 Home|  
 |![Home](AtliQ_BI_360_Dashboard- Screenshots/KPI Card.png)|
+## 🖼️ Dashboard Previews
+
+| KPI Cards | Attendance Over Time | SL % Trend |
+|----------|----------------------|------------|
+| ![KPI](https://github.com/SENTHAMILAN27/HR-Analytics-PowerBI/blob/main/Image/KPI%20Card.png) |![sl](AtliQ_BI_360_Dashboard- Screenshots/KPI Card.png)| ![SL](Image/SL.PNG)
 
 ---
 
