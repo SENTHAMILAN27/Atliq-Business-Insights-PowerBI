@@ -3,7 +3,9 @@
 Welcome to my end-to-end Power BI Business Intelligence Project for **AtliQ Industries**, a fictional manufacturing company. This project was built as part of my Data Analytics learning journey and showcases my ability to convert raw data into compelling, actionable insights through professional dashboards and thoughtful DAX-driven analytics.
 
 ---
+👉 **[Live Dashvboard](https://app.powerbi.com/view?r=eyJrIjoiMmFhNjNlMjAtZDUzMC00ZWZkLTg0OGItZDBjZWQzZjBmNzJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
 
+---
 ## 🚀 What’s Inside
 
 This project dives into 5 key business functions:
