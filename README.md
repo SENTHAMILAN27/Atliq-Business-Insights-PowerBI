@@ -44,7 +44,7 @@ As a **Data Analyst**, I took the role of transforming scattered datasets into a
 | 📊 Finance      | [Finance](Images/Finance.jpg) |
 | 💰 Sales    | [Sales](Images/Sales.jpg) |
 | 📦 Marketing  | [Marketing](Images/Marketing.jpg) |
-| 📣 Supply Chain  | [Supply chain](Images/SupplyChain.jpg) |
+| 📣 Supply Chain  | [Supply chain](Images/Supply Chain.jpg) |
 | 🧠 Executive View | [Executive](Images/Executive.jpg) |
 
 
